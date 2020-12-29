@@ -14,7 +14,7 @@ Pernyataan ini mungkin agak mengejutkan - vaksin adalah sebuah cairan yang disun
 Ini adalah suatu pertanyaan bagus, sekarang kita mulai dengan bagian kecil dari kode sumber vaksin BioNTech/Pfizer ini, juga disebut sebagai [BNT162b2](https://id.wikipedia.org/wiki/BNT162b2), alias Tozinameran [alias Comirnaty](https://twitter.com/PowerDNS_Bert/status/1342109138965422083).
 
 <center>
-![](https://berthub.eu/articles/bnt162b2.png)
+<img src="https://berthub.eu/articles/bnt162b2.png">
 
 500 karakter pertama dari mRNA BNT162b2. Sumber: [World Health Organization](https://mednet-communities.net/inn/db/media/docs/11889.doc)
 </center>
@@ -22,7 +22,7 @@ Ini adalah suatu pertanyaan bagus, sekarang kita mulai dengan bagian kecil dari 
 Pada pusat vaksin mRNA BNT162b, terdapat kode digital ini. Kode ini sepanjang 4284 karakter, sehingga dapat dimuat dalam sejumlah tweet. Pada permulaan proses produksi vaksin, seseorang mengunggah kode ini ke sebuah printer DNA (memang ada), yang kemudian mengkonversi byte dalam disket menjadi molekul DNA asli.
 
 <center>
-![](https://berthub.eu/articles/bioxp-3200.jpg)
+<img src="https://berthub.eu/articles/bioxp-3200.jpg">
 
 Printer DNA BioXp 3200 produk [Codex DNA] (https://codexdna.com/products/bioxp-system/)
 </center>
@@ -76,7 +76,7 @@ helpful picture:
 [Mari kita mulai dari paling awal, ini adalah tempat awal yang paling bagus](https://youtu.be/jp0opnxQ4rY?t=8). Dokumen WHO di atas mencantumkan gambar penting ini:
 
 <center>
-![](https://berthub.eu/articles/vaccine-toc.png)
+<img src="https://berthub.eu/articles/vaccine-toc.png">
 </center>
 
 Ini adalah semacam daftar isi. Kita akan mulai dari bagian "cap", yang sungguh digambarkan sebagai sebuah topi kecil.
@@ -174,7 +174,8 @@ Ada 4³=64 kodon berbeda, karena ada 4 karakter RNA, dan tiap kodon memiliki tig
 Organisme menggunakan tabel hampir universal berikut untuk memetakan kodon RNA ke asam amino:
 
 <center>
-![](https://berthub.eu/articles/rna-codon-table.png)
+<img src="https://berthub.eu/articles/rna-codon-table.png">
+           
 [Tabel kodon RNA](https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables) (Wikipedia)
 </center>
 
@@ -271,7 +272,7 @@ Banyak yang bisa dituliskan mengenai 3' UTR ini, namun berdasarkan [penjelasan W
 Yang kita ketahui adalah 3' UTR tertentu sangat berhail mempromosikan ekspresi protein. Berdasarkan dokumen WHO di atas, 3' UTR dari vaksin BioNTech/Pfizer ini diambil dari "penguat amino-terminal dari mRNA split (AES, amino-terminal enhancer of split) dan RNA ribosomal 12S mitokondrial untuk memberikan stabilitas RNA dan ekspresi proten total yang tinggi". Untuk itu saya ucapkan, kerja bagus.
 
 <center>
-![](https://berthub.eu/articles/vaccine.jpg)
+<img src="https://berthub.eu/articles/vaccine.jpg">
 </center>
 
 
