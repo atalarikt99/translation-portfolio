@@ -24,7 +24,7 @@ Pada pusat vaksin mRNA BNT162b, terdapat kode digital ini. Kode ini sepanjang 42
 <center>
 <img src="https://berthub.eu/articles/bioxp-3200.jpg">
 
-Printer DNA BioXp 3200 produk [Codex DNA] (https://codexdna.com/products/bioxp-system/)
+Printer DNA BioXp 3200 produk [Codex DNA](https://codexdna.com/products/bioxp-system/)
 </center>
 
 Dari mesin tersebut keluarlah sejumlah kecil DNA, yang setelah diproses secara biologis dan kimiawi menjadi RNA (akan dibahas lebih jauh nanti) di dalam botol kecil vaksin. Dosis 30 mikrogram vaksin ini mengandung 30 mikrogram RNA. Di samping itu, ada juga sistem pengemasan berlemak yang menyalurkan mRNA kepada sel tubuh kita.
