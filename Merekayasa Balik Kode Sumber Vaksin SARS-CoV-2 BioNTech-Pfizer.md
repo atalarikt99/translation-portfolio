@@ -62,17 +62,14 @@ Gagasan sebuah vaksin ialah melatih sistem imun tubuh kita untuk melawan sebuah 
 
 Vaksin mRNA memenuhi hal yang sama (mengedukasi sistem imun kita) namun dengan cara yang serupa dengan laser. Maksud saya ialah dalam kedua pengertiannya - sangat sempit namun sangat kuat.
 
-Jadi beginilah cara kerjanya. Sesuntik vaksin mRNA mengandung materi genetis bersifat volatil yang mendeskripsikan protein "spike" SARS-CoV-2 yang terkenal itu. Melalui langkah kimiawi yang cerdik, vaksin tersebut mampu menyalurkan materi genetis ini menuju beberapa sel tubuh kita.
+Jadi beginilah cara kerjanya. Sesuntik vaksin mRNA mengandung materi genetis bersifat volatil yang mendeskripsikan protein spike SARS-CoV-2 yang terkenal itu. Melalui langkah kimiawi yang cerdik, vaksin tersebut mampu menyalurkan materi genetis ini menuju beberapa sel tubuh kita.
 
-Sel-sel ini kemudian mulai memproduksi protein "spike" SARS-CoV-2 dalam jumlah yang cukup besar hingga sistem imun kita mulai bekerja. Berkonfrontasi dengan protein "spike" dan (yang paling penting) pertanda bahwa sel-sel ini telah dikuasai, sistem imun kita menciptakan sebuah respon kuat untuk melawan beragam aspek dari protein "spike" ini dan proses produksinya.
+Sel-sel ini kemudian mulai memproduksi protein spike SARS-CoV-2 dalam jumlah yang cukup besar hingga sistem imun kita mulai bekerja. Berkonfrontasi dengan protein spike dan (yang paling penting) pertanda bahwa sel-sel ini telah dikuasai, sistem imun kita menciptakan sebuah respon kuat untuk melawan beragam aspek dari protein spike ini dan proses produksinya.
 
 Dan inilah penjelasan dari vaksin yang 95% efisien ini.
 
 Kode sumbernya!
 ----------------
-[Let's start at the very beginning, a very good place
-to start](https://youtu.be/jp0opnxQ4rY?t=8). The WHO document has this
-helpful picture:
 [Mari kita mulai dari paling awal, ini adalah tempat awal yang paling bagus](https://youtu.be/jp0opnxQ4rY?t=8). Dokumen WHO di atas mencantumkan gambar penting ini:
 
 <center>
