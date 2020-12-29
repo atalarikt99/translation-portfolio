@@ -236,7 +236,7 @@ Dan SARS-CoV-2 yang sesungguhnya muncul dengan spike yang berduri tersebut. Vaks
 
 Jadi apa yang harus dilakukan? Pada tahun [2017 dijelaskan bagaimana meletakkan substitusi prolin ganda pada tempat yang tepat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584442/) akan menyebabkan protein SARS-CoV-1 dan protein S MERS mengambil pengaturan pra-fusi mereka, tanpa menjadi bagian dari keseluruhan virus. Ini terjadi karena prolin adalah asam amino yang sangat kaku. Ia berfungsi sebagai semacam belat, menstabilisasi protein dalam kondisi yang diperlukan untuk diberikan kepada sistem imun tubuh.
 
-[Mereka](https://twitter.com/goodwish916) yang [menemukan] ini sudah selayaknya mendapatkan penghargaan. Mereka boleh saja menyombongkan diri mereka. [Dan itu semua memang sudah sepantasnya begitu](https://twitter.com/McLellan_Lab/status/1291077489566142464).
+[Mereka](https://twitter.com/goodwish916) yang [menemukan](https://twitter.com/KizzyPhD) ini sudah selayaknya mendapatkan penghargaan. Mereka boleh saja menyombongkan diri mereka. [Dan itu semua memang sudah sepantasnya begitu](https://twitter.com/McLellan_Lab/status/1291077489566142464).
 
 > Tambahan! Saya baru saja dikontak [laboratorium McLellan](https://twitter.com/McLellan_Lab/status/1291077489566142464)
 > , salah satu kelompok di balik penemuan prolin ini. Mereka berkata bahwa
