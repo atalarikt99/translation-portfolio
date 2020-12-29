@@ -130,7 +130,8 @@ Oke, kembali ke UTR 5'. Apa fungsi 51 karakter ini? Sebagaimana segalanya pada o
 Ketika sel kita perlu *mentranslasi* RNA ke bentuk protein, ini dilakukan oleh ribosom. Ribosom berfungsi seperti printer 3D bagi protein. Ia menelan seuntai RNA dan berdasarkan untaian itu mengeluarkan string asam amino, yang kemudian melipat menjadi sebuah protein.
 
 <center>
-![](/Protein_translation.gif)
+![](Protein_translation.gif)
+           
 Sumber: Pengguna Wikipedia [Bensaccount](https://en.wikipedia.org/wiki/User:Bensaccount)
 </center>
 
