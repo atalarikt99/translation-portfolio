@@ -1,6 +1,6 @@
 # **Perbandingan Biaya Transfer Kripto – Mana Yang Paling Hemat?**
 
-<img src="/feecomp.png">
+<img src="/IndonesianSenatus/feecomp.png">
 
 Seiring dengan kenaikan biaya transaksi Bitcoin dan Ethereum, pertanyaan ini kerap muncul belakangan ini. Mari kita kaji bersama kali ini.
 
