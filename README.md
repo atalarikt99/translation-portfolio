@@ -11,3 +11,5 @@ So far I have translated:
   
 * [SenatusSPQR](https://senatusspqr.medium.com/)'s Medium articles on the [Nano](https://nano.org/) cryptocurrency
   *  "[Crypto fee comparison - what is the lowest fee cryptocurrency?](https://blog.nano.org/cryptocurrency-fee-comparison-which-crypto-has-the-lowest-fees-4e9118590e1f)" *English to [Indonesian](https://github.com/atalarikt99/translation-portfolio/blob/main/IndonesianSenatus/%5BIndonesian%5D%20Crypto%20fee%20comparison%20-%20what%20is%20the%20lowest%20fee%20cryptocurrency.md)*
+
+<img src="/images/brave-tip.png">
